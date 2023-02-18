@@ -1,5 +1,5 @@
 <p align="center">
-<img src="(https://i.imgur.com/AsXa2kY.jpeg)" alt="Proton VPN"/>
+<img src="https://i.imgur.com/AsXa2kY.jpeg" alt="Proton VPN"/>
 </p>
 
 <h1>VPN Setup and Usage (Proton VPN) </h1>
