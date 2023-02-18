@@ -1,5 +1,6 @@
 <p align="center">
-<img src="(https://imgur.com/a/mtL2hBg)"/></p>
+<img src="(https://i.imgur.com/a/mtL2hBg)" alt="Proton VPN"/>
+</p>
 
 <h1>VPN Setup and Usage (Proton VPN) </h1>
 In this tutorial, we install and setup a free, open-source VPN (Proton VPN). <br />
