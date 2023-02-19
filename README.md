@@ -44,7 +44,7 @@ Check your initial IP Address (wherever you start the lab) using whatismyipaddre
 <img src="https://i.imgur.com/1lgZFDn.png" height="80%" width="80%" alt="Creating Azure VM"/>
 </p>
 <p>
-Create your Virtual Machine in Microsoft Azure. The full process of creating a VM is shown in this lab (--------). It is from inside this Virtual Machine that we will download and connect to Proton VPN.
+Create your Virtual Machine in Microsoft Azure. The full process of creating a VM is shown in this lab (https://github.com/MatthewMarksIT/azurevm). It is from inside this Virtual Machine that we will download and connect to Proton VPN.
 </p>
 <br />
 
