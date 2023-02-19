@@ -52,7 +52,7 @@ Create your Virtual Machine in Microsoft Azure. The full process of creating a V
 <img src="https://i.imgur.com/PDNiJJA.png" height="80%" width="80%" alt="Remote Desktop into Azure VM"/>
 </p>
 <p>
-Open Remote Desktop Connection (On Windows), or ---- if using a Mac. Copy and paste the public IP Address of your Azure VM to connect to it. Then, enter the login information you chose when creating your VM. Once you do this, check your IP address once again, noticing that it is different from your home address. 
+Open Remote Desktop Connection (On Windows), or the Microsoft Remote Desktop application if using a Mac. Copy and paste the public IP Address of your Azure VM to connect to it. Then, enter the login information you chose when creating your VM. Once you do this, check your IP address once again, noticing that it is different from your home address. 
 </p>
 <br />
 
